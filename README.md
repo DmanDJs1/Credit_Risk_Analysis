@@ -28,7 +28,7 @@ recommendation on whether they should be used to predict credit risk.
 
 3. Cluster Centroids Undersampling
 
-![image] ( )
+![image](https://github.com/DmanDJs1/Credit_Risk_Analysis/blob/main/Pictures/Cluster%20Centroids%20Undersampling3.PNG?raw=true)
 
 
    - This model gives us very low recall as well as precision for high risk transactions.
