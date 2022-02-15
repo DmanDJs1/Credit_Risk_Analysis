@@ -20,7 +20,7 @@ recommendation on whether they should be used to predict credit risk.
 
 2. SMOTE model
 
-![image] ( )
+![image](https://github.com/DmanDJs1/Credit_Risk_Analysis/blob/main/Pictures/SMOTE%20Oversampling2.PNG?raw=true)
 
     - The balanced accuracy score also about 65%.
     - The high-risk precision is about 1% only with 69% recall and F1 of 2% only.
