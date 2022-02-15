@@ -48,7 +48,7 @@ recommendation on whether they should be used to predict credit risk.
 
 ![image](https://github.com/DmanDJs1/Credit_Risk_Analysis/blob/main/Pictures/Balanced%20Random%20Forest%20Classifier5.PNG?raw=true)
 
-    - We see an increase in the precision but the sensitivity is still very low for high risk credits.
+    - We see an a very good increase in the precision but the sensitivity is still very low for high risk credits.
 
 6. Easy Ensemble AdaBoost Classifier
 
