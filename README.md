@@ -49,7 +49,7 @@ recommendation on whether they should be used to predict credit risk.
 
 6. Easy Ensemble AdaBoost Classifier
 
-![image] ( )
+![image](https://github.com/DmanDJs1/Credit_Risk_Analysis/blob/main/Pictures/Easy%20Ensemble%20AdaBoost%20Classifier6.PNG?raw=true)
 
     - This model is by far giving us the best recall towards high risk credits. There is a little increase in precision as well for high risk credits.
 
