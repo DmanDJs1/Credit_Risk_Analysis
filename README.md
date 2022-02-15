@@ -36,7 +36,7 @@ recommendation on whether they should be used to predict credit risk.
 4. SMOTEENN Oversampling & Undersampling
 
 
-![image] ( )
+![image](https://github.com/DmanDJs1/Credit_Risk_Analysis/blob/main/Pictures/SMOTEOversampling%20-%20Undersampling4.PNG?raw=true)
 
 
     - This model's sensitivity towards high risk credits is a little better than other models but precision is still very low.
