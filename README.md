@@ -43,7 +43,7 @@ recommendation on whether they should be used to predict credit risk.
 
 5. Balanced Random Forest Classifier
 
-![image] ( )
+![image](https://github.com/DmanDJs1/Credit_Risk_Analysis/blob/main/Pictures/Balanced%20Random%20Forest%20Classifier5.PNG?raw=true)
 
     - We see a slight increase in precision but sensitivity is still very low for high risk credits.
 
